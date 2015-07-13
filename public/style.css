@@ -1,0 +1,28 @@
+.btn-success {
+	color: blue;
+}
+
+h2 {
+	color: red;
+	font-size: 38px;
+	font-family: Arial;
+}
+
+body {
+	background: url(http://www.etownian.com/wp-content/uploads/2013/04/Untitled-17-610x250.png);
+}
+
+p {
+	color: black;
+	font-size: 14px;
+}
+
+.form-control {
+	width: 90%;
+	font-size: 16px;
+}
+
+ul {
+	margin-top: 0px;
+	margin-bottom: 4px;
+}
